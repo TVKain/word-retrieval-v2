@@ -1,6 +1,6 @@
 MODEL="/home/khanh/sla/sla_cpt/qwen2.5-0.5b_english_wiki_irish_corpus_custom_sampler/"
 TARGET_LANG="gle_Latn"
-SAVE_FOLDER="../artifacts/qwen2.5-0.5b_english_wiki_irish_corpus_custom_sampler/data-single_prompt-few_hidden-base-mean_hidden-target-last_gle/"
+SAVE_FOLDER="../artifacts/qwen2.5-0.5b_english_wiki_irish_corpus_custom_sampler/data-single_prompt-zero_hidden-base-mean_hidden-target-last_gle/"
 DATA="single"
 PROMPT="few"
 HIDDEN_BASE="mean"

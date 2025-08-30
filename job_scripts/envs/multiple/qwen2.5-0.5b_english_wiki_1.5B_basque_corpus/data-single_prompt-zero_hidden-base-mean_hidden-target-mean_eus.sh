@@ -1,6 +1,6 @@
 MODEL="/home/khanh/sla/sla_cpt/qwen2.5-0.5b_english_wiki_1.5B_basque_corpus/"
 TARGET_LANG="eus_Latn"
-SAVE_FOLDER="../artifacts/qwen2.5-0.5b_english_wiki_1.5B_basque_corpus/data-single_prompt-few_hidden-base-mean_hidden-target-last_eus/"
+SAVE_FOLDER="../artifacts/qwen2.5-0.5b_english_wiki_1.5B_basque_corpus/data-single_prompt-zero_hidden-base-mean_hidden-target-last_eus/"
 DATA="single"
 PROMPT="few"
 HIDDEN_BASE="mean"
