@@ -1,0 +1,7 @@
+MODEL="/home/khanh/sla/sla_cpt/qwen2.5-0.5b_english_wiki_750M_chinese_wikipedia_corpus"
+TARGET_LANG="cmn_Hans"
+SAVE_FOLDER="../artifacts/qwen2.5-0.5b_english_wiki_750M_chinese_wikipedia_corpus/data-single_prompt-few_hidden-base-mean_hidden-target-last_cmn/"
+DATA="single"
+PROMPT="few"
+HIDDEN_BASE="mean"
+HIDDEN_TARGET="last"

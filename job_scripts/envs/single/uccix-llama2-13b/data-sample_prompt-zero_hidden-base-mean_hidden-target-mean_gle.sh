@@ -1,0 +1,7 @@
+MODEL="ReliableAI/UCCIX-Llama2-13B"
+TARGET_LANG="gle_Latn"
+SAVE_FOLDER="../artifacts/uccix-llama2-13b/data-single_prompt-few_hidden-base-mean_hidden-target-last_gle/"
+DATA="single"
+PROMPT="few"
+HIDDEN_BASE="mean"
+HIDDEN_TARGET="last"

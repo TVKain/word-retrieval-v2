@@ -1,0 +1,7 @@
+MODEL="Qwen/Qwen2-7B"
+TARGET_LANG="cmn_Hans"
+SAVE_FOLDER="../artifacts/qwen2.5-7b/data-single_prompt-few_hidden-base-mean_hidden-target-last_cmn/"
+DATA="single"
+PROMPT="few"
+HIDDEN_BASE="mean"
+HIDDEN_TARGET="last"
